@@ -6,6 +6,6 @@ const users = [
     { firstName: "James", lastName: "Bond" }
   
 ];
-  const usernames = users.map(user => `${user.firstName} ${user.lastName}`); // ["John.Doe", "Jane.Smith"]
+  const usernames = users.map(user => `${user.firstName} ${user.lastName}`); // ["Jayesh Damor", "James Bond"]
   console.log(usernames);
   
